@@ -3,7 +3,7 @@
 # GAMEPLAY
 
 - This is a 2D puzzle platform game, you will control 2 characters and need both of them.
-- You control a slime (the square) and a firefly (the round light).
+- You control a slime (the square) and a spirit (the round light).
 - The goal is to reach the end of a level by collecting as many coins as possible and avoiding dying.
 - Be careful, remember to light your way to avoid falling into traps.
 
@@ -15,16 +15,10 @@ Download the project, then run the file "Light Up And Escape.exe".
 
 ![image](https://github.com/chbouhin/Light-Up-And-Escape-EXEC/assets/47974387/de07dddb-5047-4611-a67d-aa470451f6ee)
 
-# BASIC RULE:
-
-- The firefly can activate buttons.
-- The slime can carry boxes and keys.
-- 2 types of monsters will be on your way, they only attack one of your characters, it's up to you to differentiate them.
-- Floor plates can also be activated by putting weight on them (via a box, a monster, or your slime)
-- When you activate a device, it can : open/close doors; turn lights on/off; explode boxes.
-- To win, you must open the chest at the end of the level, also try to collect a maximum of coins on your way finish the game at 100%.
-
 # DEVELOPMENT:
 
 I developed the game alone in my free time in 2 months.
+
 It was a fun project that i would like to update in the future.
+
+The game is still in progress!
