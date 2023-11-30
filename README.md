@@ -13,8 +13,7 @@ Download the project, then run the file "Light Up And Escape.exe".
 
 # DEFAULT KEY MAPPING:
 
-![image](https://user-images.githubusercontent.com/47974387/203386231-c64ecffa-ecf6-4b2a-9ebc-3f52ff814db8.png)
-![image](https://user-images.githubusercontent.com/47974387/203386343-8b023acc-62f8-420a-b054-b08890ab61f1.png)
+![image](https://github.com/chbouhin/Light-Up-And-Escape-EXEC/assets/47974387/de07dddb-5047-4611-a67d-aa470451f6ee)
 
 # BASIC RULE:
 
